@@ -21,18 +21,20 @@ In this section, i will list the data analytics project briefly describing the t
 
 ## Bank Marketing Strategy
 Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)\
-Overview:\
-*      Previous - shows whether the last campaign was successful with the consumer.\
-*     march & may - when the last call was made to the specific customer\
-*     credit - shows if the customer had enogh credit to avoid defaulting\
-*     duration - the time since the last contact with the customer\
+
+Overview:
+*      Previous - shows whether the last campaign was successful with the consumer.
+*     march & may - when the last call was made to the specific customer
+*     credit - shows if the customer had enogh credit to avoid defaulting
+*     duration - the time since the last contact with the customer
 Skills: data cleaning, logistic regression, data visualization\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
 ## Used cars
 code: [Predicting the price of used cars depending on its specifications. ](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/used%20cars.ipynb)\
-Overview:\
+
+Overview:
 Predicting the price of used cars depending on its specifications. \
 Problem statement\
 Predict the price of a used car depending on its specifications using statistical and machine learning techniques. This involves analyzing key features that influence the price and building a model.\
@@ -42,7 +44,7 @@ Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration
 Create a regression algorithm and find the weights and biases. Then test the model.\
 Skills: data cleaning, linear regression, data visualisation\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)\
-Results:\
+Results:
 •	A positive weight on EngineV shows that as it increases so does the price respectively.\
 •	A negative weight on Mileage shows that as it increases, the price decreases.\
 •	A positive weight shows that the respective brand is more expensive than the Audi.\
@@ -51,7 +53,7 @@ Results:\
 •	A negative weight shows that the respective body is less expensive than the crossover.\
 •	A positive weight shows that the respective Engine Type is more expensive than the Diesel.\
 •	A negative weight shows that the respective Engine Type is less expensive than the Diesel.\
-•	A positive weight shows that the respective Registration ‘yes’ is more expensive than the benchmark ‘no’.\
+•	A positive weight shows that the respective Registration ‘yes’ is more expensive than the benchmark ‘no’.
 
 
 
@@ -67,7 +69,7 @@ Technology: SQL\
 Results:\
 •	Visualization salary trends over time\
 •	Tracking employee departments\
-•	Ensuring data integrity \
+•	Ensuring data integrity 
 
 # Certificates
 Here is a list of the ones i have.
