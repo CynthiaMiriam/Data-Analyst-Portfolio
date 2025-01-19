@@ -5,8 +5,8 @@ I am Cynthia Nakachwa and I have a strong foundation in mathematics and statisti
 
 This is a repository to showcase my capabilities, share projects and track my progress in Data Analytics
 # Table of content
-[About](# About)\
-[Portfolio projects](# Portfolio-projects)\
+[About](#About)\
+[Portfolio projects](#Portfolio-projects)\
 python\
       [What factors can be analysed to determine the success of the banks marketing strategy]()\
 SQL\
