@@ -29,8 +29,8 @@ Skills: data cleaning, logistic regression, data visualization
 Technology: pandas, numpy, Matplotlib, seaborn
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
-## 
-code: 
+## Business case
+code: The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures.
 Overview: By analyzing trends in salaries and department changes, as well as validating key data fields such as hire date, the company can improve decision-making, compliance and workforce planning.
       Problem statement
       1.	Understanding how employees’ salaries evolved overtime.
