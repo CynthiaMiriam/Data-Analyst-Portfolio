@@ -8,9 +8,9 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [About](#About)\
 [Portfolio projects](#Portfolio-projects)\
 python\
-      [What factors can be analysed to determine the success of the banks marketing strategy]()\
+      [What factors can be analysed to determine the success of the banks marketing strategy](##Bank-Marketing=Strategy)\
 SQL\
-      [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures]()\
+      [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](##Business-case)\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
 [Certificates](#Certificates)\
 [Contact](#Contact)
@@ -21,10 +21,10 @@ In this section, i will list the data analytics project briefly describing the t
 ## Bank Marketing Strategy
 Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)\
 Overview:\
-      - Previous - shows whether the last campaign was successful with the consumer.\
-      * march & may - when the last call was made to the specific customer\
-      + credit - shows if the customer had enogh credit to avoid defaulting\
-      - duration - the time since the last contact with the customer\
+      Previous - shows whether the last campaign was successful with the consumer.\
+      march & may - when the last call was made to the specific customer\
+      credit - shows if the customer had enogh credit to avoid defaulting\
+      duration - the time since the last contact with the customer\
 Skills: data cleaning, logistic regression, data visualization\
 Technology: pandas, numpy, Matplotlib, seaborn\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
