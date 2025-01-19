@@ -8,9 +8,9 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [About](#About)\
 [Portfolio projects](#Portfolio-projects)\
 python\
-      [What factors can be analysed to determine the success of the banks marketing strategy](##Bank-Marketing=Strategy)\
+      [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing=Strategy)\
 SQL\
-      [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](##Business-case)\
+      [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
 [Certificates](#Certificates)\
 [Contact](#Contact)
