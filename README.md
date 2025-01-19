@@ -12,8 +12,8 @@ python\
 SQL\
       [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures]()\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
-Certificates\
-Contact
+[Certificates](#Certificates)\
+[Contact](#Contact)
 
 # Portfolio projects
 In this section, i will list the data analytics project briefly describing the technology stack used to solve cases
