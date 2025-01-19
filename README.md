@@ -30,7 +30,7 @@ Technology: pandas, numpy, Matplotlib, seaborn\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
 ## Business case
-code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures]()\
+code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Business%20case.sql)\
 Overview: By analyzing trends in salaries and department changes, as well as validating key data fields such as hire date, the company can improve decision-making, compliance and workforce planning.\
       Problem statement\
       1.	Understanding how employees’ salaries evolved overtime.\
