@@ -11,7 +11,7 @@ python\
       [What factors can be analysed to determine the success of the banks marketing strategy]()\
 SQL\
       [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures]()\
-Tableau -> go to Tableau\
+Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
 Certificates\
 Contact
 
@@ -19,7 +19,7 @@ Contact
 In this section, i will list the data analytics project briefly describing the technology stack used to solve cases
 
 ## Bank Marketing Strategy
-Code: [What factors can be analysed to determine the success of the banks marketing strategy]()\
+Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)\
 Overview:\
       Previous - shows whether the last campaign was successful with the consumer.\
       march & may - when the last call was made to the specific customer\
