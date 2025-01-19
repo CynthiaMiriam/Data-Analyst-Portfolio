@@ -22,16 +22,16 @@ In this section, i will list the data analytics project briefly describing the t
 ## Bank Marketing Strategy
 Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)\
 Overview:\
-      Previous - shows whether the last campaign was successful with the consumer.\
-      march & may - when the last call was made to the specific customer\
-      credit - shows if the customer had enogh credit to avoid defaulting\
-      duration - the time since the last contact with the customer\
+*      Previous - shows whether the last campaign was successful with the consumer.\
+*     march & may - when the last call was made to the specific customer\
+*     credit - shows if the customer had enogh credit to avoid defaulting\
+*     duration - the time since the last contact with the customer\
 Skills: data cleaning, logistic regression, data visualization\
-Technology: pandas, numpy, Matplotlib, seaborn\
+Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
 ## Used cars
-code: [Predicting the price of used cars depending on its specifications. ]()\
+code: [Predicting the price of used cars depending on its specifications. ](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/used%20cars.ipynb)\
 Overview:\
 Predicting the price of used cars depending on its specifications. \
 Problem statement\
@@ -41,7 +41,7 @@ Data cleaning such as handling missing variables, outliers. Exploratory data ana
 Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.\
 Create a regression algorithm and find the weights and biases. Then test the model.\
 Skills: data cleaning, linear regression, data visualisation\
-Technology: \
+Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)\
 Results:\
 •	A positive weight on EngineV shows that as it increases so does the price respectively.\
 •	A negative weight on Mileage shows that as it increases, the price decreases.\
@@ -58,16 +58,16 @@ Results:\
 ## Business case
 code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Business%20case.sql)\
 Overview: By analyzing trends in salaries and department changes, as well as validating key data fields such as hire date, the company can improve decision-making, compliance and workforce planning.\
-      Problem statement\
-      1.	Understanding how employees’ salaries evolved overtime.\
-      2.	Tracking the most recent department where the employee is working.\
-      3.	Ensuring that the hire dates entered into the system are valid and not set to future dates.\
+Problem statement\
+•	Understanding how employees’ salaries evolved overtime.\
+•	Tracking the most recent department where the employee is working.\
+•	Ensuring that the hire dates entered into the system are valid and not set to future dates.\
 Skills: Joins, Triggers, Procedures, Functions.\
 Technology: SQL\
 Results:\
-      1.	Visualization salary trends over time\
-      2.	Tracking employee departments\
-      3.	Ensuring data integrity
+•	Visualization salary trends over time\
+•	Tracking employee departments\
+•	Ensuring data integrity \
 
 # Certificates
 Here is a list of the ones i have.
