@@ -9,6 +9,7 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [Portfolio projects](#Portfolio-projects)\
 python\
       [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)\
+      [Predicting the price of used cars depending on its specifications](#Used-cars)\
 SQL\
       [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
@@ -28,6 +29,31 @@ Overview:\
 Skills: data cleaning, logistic regression, data visualization\
 Technology: pandas, numpy, Matplotlib, seaborn\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
+
+## Used cars
+code: [Predicting the price of used cars depending on its specifications. ]()\
+Overview:\
+Predicting the price of used cars depending on its specifications. \
+Problem statement\
+Predict the price of a used car depending on its specifications using statistical and machine learning techniques. This involves analyzing key features that influence the price and building a model.\
+Preprocessing\
+Data cleaning such as handling missing variables, outliers. Exploratory data analysis to identify the existing trends and patterns of the dataset using scatterplot. Checking and relaxing the ordinary least square assumptions. \
+Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.\
+Create a regression algorithm and find the weights and biases. Then test the model.\
+Skills: data cleaning, linear regression, data visualisation\
+Technology: \
+Results:\
+•	A positive weight on EngineV shows that as it increases so does the price respectively.\
+•	A negative weight on Mileage shows that as it increases, the price decreases.\
+•	A positive weight shows that the respective brand is more expensive than the Audi.\
+•	A negative weight shows that the respective brand is less expensive than the Audi.\
+•	A positive weight shows that the respective body is more expensive than the crossover.\
+•	A negative weight shows that the respective body is less expensive than the crossover.\
+•	A positive weight shows that the respective Engine Type is more expensive than the Diesel.\
+•	A negative weight shows that the respective Engine Type is less expensive than the Diesel.\
+•	A positive weight shows that the respective Registration ‘yes’ is more expensive than the benchmark ‘no’.\
+
+
 
 ## Business case
 code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Business%20case.sql)\
