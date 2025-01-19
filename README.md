@@ -20,7 +20,7 @@ Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakach
 In this section, i will list the data analytics project briefly describing the technology stack used to solve cases
 
 ## Bank Marketing Strategy
-Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)\
+Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)
 
 Overview:
 *      Previous - shows whether the last campaign was successful with the consumer.
@@ -32,7 +32,7 @@ Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)\
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
 ## Used cars
-code: [Predicting the price of used cars depending on its specifications. ](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/used%20cars.ipynb)\
+code: [Predicting the price of used cars depending on its specifications. ](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/used%20cars.ipynb)
 
 Overview:
 Predicting the price of used cars depending on its specifications. \
@@ -58,7 +58,8 @@ Results:
 
 
 ## Business case
-code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Business%20case.sql)\
+code: [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Business%20case.sql)
+
 Overview: By analyzing trends in salaries and department changes, as well as validating key data fields such as hire date, the company can improve decision-making, compliance and workforce planning.\
 Problem statement\
 •	Understanding how employees’ salaries evolved overtime.\
