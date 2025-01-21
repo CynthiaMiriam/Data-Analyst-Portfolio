@@ -78,10 +78,10 @@ Problem statement
 Skills: Joins, Triggers, Procedures, Functions.\
 Technology: SQL
 
-Results:\
-•	Visualization salary trends over time
-•	Tracking employee departments
-•	Ensuring data integrity 
+Results:
+* 	Visualization salary trends over time
+* Tracking employee departments
+* 	Ensuring data integrity 
 
 # Certificates
 Here is a list of the ones i have.
