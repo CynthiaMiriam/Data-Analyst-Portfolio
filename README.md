@@ -8,10 +8,10 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [About](#About)\
 [Portfolio projects](#Portfolio-projects)\
 python\
-      [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)\
-      [Predicting the price of used cars depending on its specifications](#Used-cars)\
+* [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)\
+* [Predicting the price of used cars depending on its specifications](#Used-cars)\
 SQL\
-      [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)\
+* [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
 [Certificates](#Certificates)\
 [Contact](#Contact)
@@ -39,21 +39,21 @@ Predicting the price of used cars depending on its specifications. \
 Problem statement\
 Predict the price of a used car depending on its specifications using statistical and machine learning techniques. This involves analyzing key features that influence the price and building a model.\
 Preprocessing\
-Data cleaning such as handling missing variables, outliers. Exploratory data analysis to identify the existing trends and patterns of the dataset using scatterplot. Checking and relaxing the ordinary least square assumptions. \
-Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.\
-Create a regression algorithm and find the weights and biases. Then test the model.\
+* Data cleaning such as handling missing variables, outliers. Exploratory data analysis to identify the existing trends and patterns of the dataset using scatterplot. Checking and relaxing the ordinary least square assumptions. \
+* Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.\
+* Create a regression algorithm and find the weights and biases. Then test the model.\
 Skills: data cleaning, linear regression, data visualisation\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)\
 Results:
 * 	A positive weight on EngineV shows that as it increases so does the price respectively.\
-•	A negative weight on Mileage shows that as it increases, the price decreases.\
-•	A positive weight shows that the respective brand is more expensive than the Audi.\
-•	A negative weight shows that the respective brand is less expensive than the Audi.\
-•	A positive weight shows that the respective body is more expensive than the crossover.\
-•	A negative weight shows that the respective body is less expensive than the crossover.\
-•	A positive weight shows that the respective Engine Type is more expensive than the Diesel.\
-•	A negative weight shows that the respective Engine Type is less expensive than the Diesel.\
-•	A positive weight shows that the respective Registration ‘yes’ is more expensive than the benchmark ‘no’.
+* 	A negative weight on Mileage shows that as it increases, the price decreases.\
+*  A positive weight shows that the respective brand is more expensive than the Audi.\
+*  A negative weight shows that the respective brand is less expensive than the Audi.\
+*  A positive weight shows that the respective body is more expensive than the crossover.\
+*  A negative weight shows that the respective body is less expensive than the crossover.\
+*  A positive weight shows that the respective Engine Type is more expensive than the Diesel.\
+*  A negative weight shows that the respective Engine Type is less expensive than the Diesel.\
+*  A positive weight shows that the respective Registration ‘yes’ is more expensive than the benchmark ‘no’.
 
 
 
@@ -62,9 +62,9 @@ code: [The organisation seeks to ensure data accuracy and alignment with busines
 
 Overview: By analyzing trends in salaries and department changes, as well as validating key data fields such as hire date, the company can improve decision-making, compliance and workforce planning.\
 Problem statement\
-•	Understanding how employees’ salaries evolved overtime.\
-•	Tracking the most recent department where the employee is working.\
-•	Ensuring that the hire dates entered into the system are valid and not set to future dates.\
+* 	Understanding how employees’ salaries evolved overtime.\
+*  Tracking the most recent department where the employee is working.\
+*  Ensuring that the hire dates entered into the system are valid and not set to future dates.\
 Skills: Joins, Triggers, Procedures, Functions.\
 Technology: SQL\
 Results:\
