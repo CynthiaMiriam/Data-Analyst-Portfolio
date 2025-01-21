@@ -73,7 +73,8 @@ Results:\
 •	Ensuring data integrity 
 
 # Certificates
-Here is a list of the ones i have.
+Here is a list of the ones i have.\
+https://e2.udemymail.com/ls/click?upn=u001.TtzRjPf63yUg9yrAxgqE78WDKTn6A2iSo8JCeA5RUg-2FCKXF5NEJ-2BRNJRCktRqp1THFvtHgEajzmilh-2F-2FgenP3J1RYuU9L86oPJ-2BGowJE2lmeL-2FUf3zKTBQoZ56sSLUMvrWxMS-2BCzfaAHAsCfFMONrXTz7waLUKe7mCeMIm3iL3c-3DZdcd_68If7Fl9L82gxlPCx3BxL0upbO5-2FSKGxJL3IX8AgBDzO-2F9P8ihEUOZ2FKqAzQBatD4WW8XWjNJCI5aPHaJjOeyhfiawQavbhfWoETNfTq-2F6zBixRMqYSWQraRmiEWRDOrIR9mc09OsBeteIBwc5fEpBM4iiJg0bX-2BNKxXhMZ4d1Bq2Fb9JNEmubMp6O6iLRZSL6R90uJikXKDgq1hErgXXJpdolGIc2e0rSf09jnYQYBSxpDTggRk6-2BhdMRo1vx94NVeSLKzJXKEG0HBEyEETyRG-2F7MkUkuVS5XtzNOEx7PHjTsZzVGRnrNc0wrgVFHWuuebkaLnjiFR64g0Oe0tEruThnAaPxPQt2skiw4f03g-3D
 
 # Contact
 LinkedIn: \
