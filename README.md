@@ -45,7 +45,7 @@ Create a regression algorithm and find the weights and biases. Then test the mod
 Skills: data cleaning, linear regression, data visualisation\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)\
 Results:
-•	A positive weight on EngineV shows that as it increases so does the price respectively.\
+* 	A positive weight on EngineV shows that as it increases so does the price respectively.\
 •	A negative weight on Mileage shows that as it increases, the price decreases.\
 •	A positive weight shows that the respective brand is more expensive than the Audi.\
 •	A negative weight shows that the respective brand is less expensive than the Audi.\
