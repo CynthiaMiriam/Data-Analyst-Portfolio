@@ -7,10 +7,10 @@ This is a repository to showcase my capabilities, share projects and track my pr
 # Table of content
 [About](#About)\
 [Portfolio projects](#Portfolio-projects)\
-python\
+python
 * [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)\
 * [Predicting the price of used cars depending on its specifications](#Used-cars)\
-SQL\
+SQL
 * [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)\
 Tableau -> [go to Tableau](https://public.tableau.com/app/profile/cynthia.nakachwa/vizzes)\
 [Certificates](#Certificates)\
@@ -23,12 +23,14 @@ In this section, i will list the data analytics project briefly describing the t
 Code: [What factors can be analysed to determine the success of the banks marketing strategy](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Bank%20marketing%20analysis.ipynb)
 
 Overview:
-*      Previous - shows whether the last campaign was successful with the consumer.
-*     march & may - when the last call was made to the specific customer
-*     credit - shows if the customer had enogh credit to avoid defaulting
-*     duration - the time since the last contact with the customer
+*  Previous - shows whether the last campaign was successful with the consumer.
+*  march & may - when the last call was made to the specific customer
+*  credit - shows if the customer had enogh credit to avoid defaulting
+*  duration - the time since the last contact with the customer
+
 Skills: data cleaning, logistic regression, data visualization\
-Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)\
+Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)
+
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
 ## Used cars
@@ -38,12 +40,14 @@ Overview:
 Predicting the price of used cars depending on its specifications. \
 Problem statement\
 Predict the price of a used car depending on its specifications using statistical and machine learning techniques. This involves analyzing key features that influence the price and building a model.\
-Preprocessing\
+Preprocessing
 * Data cleaning such as handling missing variables, outliers. Exploratory data analysis to identify the existing trends and patterns of the dataset using scatterplot. Checking and relaxing the ordinary least square assumptions. \
 * Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.\
-* Create a regression algorithm and find the weights and biases. Then test the model.\
+* Create a regression algorithm and find the weights and biases. Then test the model.
+
 Skills: data cleaning, linear regression, data visualisation\
-Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)\
+Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)
+
 Results:
 * 	A positive weight on EngineV shows that as it increases so does the price respectively.\
 * 	A negative weight on Mileage shows that as it increases, the price decreases.\
@@ -64,9 +68,11 @@ Overview: By analyzing trends in salaries and department changes, as well as val
 Problem statement\
 * 	Understanding how employees’ salaries evolved overtime.\
 *  Tracking the most recent department where the employee is working.\
-*  Ensuring that the hire dates entered into the system are valid and not set to future dates.\
+*  Ensuring that the hire dates entered into the system are valid and not set to future dates.
+
 Skills: Joins, Triggers, Procedures, Functions.\
-Technology: SQL\
+Technology: SQL
+
 Results:\
 •	Visualization salary trends over time\
 •	Tracking employee departments\
