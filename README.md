@@ -95,7 +95,7 @@ Here is a list of the ones i have.
   
 * Course: Data Science\
   Institution: Udemy\
-  url_institution:
+  url_institution: ongoing 
   
 # Contact
 LinkedIn: \
