@@ -85,11 +85,10 @@ Results:
 
 # Certificates
 Here is a list of the ones i have.
-* Course: SQL - MySQL for Data Analytics and Business Intelligence\
-  Institution: Udemy\
-  url_institution: https://www.udemy.com/certificate/UC-a555ae99-f4d7-45dc-a6a6-2b5045b14d71/
+* Course: [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-a555ae99-f4d7-45dc-a6a6-2b5045b14d71/)\
+  Institution: Udemy\ 
  
-* Course: [Linux Shell Scripting](https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/)
+* Course: [Linux Shell Scripting](https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/)\
   Institution: Udemy 
   
 * Course: Data Science\
