@@ -89,9 +89,8 @@ Here is a list of the ones i have.
   Institution: Udemy\
   url_institution: https://www.udemy.com/certificate/UC-a555ae99-f4d7-45dc-a6a6-2b5045b14d71/
  
-* Course: Linux Shell Scripting\
-  Institution: Udemy\
-  url_institution: https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/
+* Course: [Linux Shell Scripting](https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/)
+  Institution: Udemy 
   
 * Course: Data Science\
   Institution: Udemy\
