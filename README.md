@@ -8,7 +8,7 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [About](#About)\
 [Portfolio projects](#Portfolio-projects)\
 python
-* [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)\
+* [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)
 * [Predicting the price of used cars depending on its specifications](#Used-cars)
 
 SQL
