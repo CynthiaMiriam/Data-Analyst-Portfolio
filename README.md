@@ -85,7 +85,18 @@ Results:
 
 # Certificates
 Here is a list of the ones i have.
-
+* Course: SQL - MySQL for Data Analytics and Business Intelligence
+  Institution: Udemy
+  url_institution: https://www.udemy.com/certificate/UC-a555ae99-f4d7-45dc-a6a6-2b5045b14d71/
+  Year: 2024
+* Course:Linux Shell Scripting
+  Institution: Udemy
+  url_institution: https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/
+  Year: 2025
+* Course: Data Science
+  Institution: Udemy
+  url_institution:
+  Year: 2025
 # Contact
 LinkedIn: \
 Email: cynthiammiriam@gmail.com
