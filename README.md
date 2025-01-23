@@ -96,5 +96,5 @@ Here is a list of the ones i have.
   url_institution: ongoing 
   
 # Contact
-LinkedIn: \
+[LinkedIn](linkedin.com/in/cynthianakachwa)\
 Email: cynthiammiriam@gmail.com
