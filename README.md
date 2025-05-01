@@ -91,9 +91,8 @@ Here is a list of the ones i have.
 * Course: [Linux Shell Scripting](https://www.udemy.com/certificate/UC-1bc76ee0-7416-406f-8654-5543c8cfc0dc/)\
   Institution: Udemy 
   
-* Course: Data Science\
-  Institution: Udemy\
-  url_institution: ongoing 
+* Course: [The Data ScienceCourse](https://www.udemy.com/certificate/UC-a7326c3d-ba65-48bd-b1df-523f7227f5af/)\
+  Institution: Udemy
   
 # Contact
 LinkedIn: [linkedin.com/in/cynthianakachwa](https://www.linkedin.com/in/cynthia-nakachwa/)\
