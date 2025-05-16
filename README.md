@@ -88,14 +88,17 @@ Results:
 ## Absenteeism
 code: [Based on what information should we predict whether an employee is expected to be absent or present?]()
 
-Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.\
-Splitting the reasons for absence into multiple dummy variables, and then group them in the following way with no reason as the baseline:  
-* Reason 1: Columns 1 to 14
-* Reason 2: Columns 15, 16, and 17
-* Reason 3: Columns 18, 19, 20, and 21
-* Reason 4: Columns 22 to 28
+Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.
 
-Skills: 
+Data Preprocessing: [Processed data]()
+Splitting the reasons for absence into multiple dummy variables, and then group them in the following way with no reason as the baseline:  
+* Reason 1: Various diseases
+* Reason 2: Pregnacy and giving birth
+* Reason 3: Poisoning
+* Reason 4: Light diseases
+
+Skills: Data Preprocessing, Exploratory data analysis, Model selection and evaluation, Deployment\
+Technonolgy: python libraries (pandas, numpy, Matplotlib, sklearn)\
 Results:
 
 # Certificates
