@@ -88,6 +88,8 @@ Results:
 ## Absenteeism
 code: [Based on what information should we predict whether an employee is expected to be absent or present?](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Machine%20Learning%20(all%20inputs%20standardized).ipynb)
 
+Target: Dividend the absenteeism in hours into two classes that is moderately absent and excessively absent. 
+
 Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.
 
 Data Preprocessing: [Preprocessed data](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Absenteeism.ipynb)\
