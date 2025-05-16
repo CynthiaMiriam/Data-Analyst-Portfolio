@@ -90,7 +90,7 @@ code: [Based on what information should we predict whether an employee is expect
 
 Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.
 
-Data Preprocessing: [Processed data]()\
+Data Preprocessing: [Preprocessed data](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Absenteeism.ipynb)\
 Splitting the reasons for absence into multiple dummy variables, and then group them in the following way with no reason as the baseline:  
 * Reason 1: Various diseases
 * Reason 2: Pregnacy and giving birth
