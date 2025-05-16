@@ -10,6 +10,7 @@ This is a repository to showcase my capabilities, share projects and track my pr
 python
 * [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)
 * [Predicting the price of used cars depending on its specifications](#Used-cars)
+* [Based on what information should we predict whether an employee is expected to be absent or present?](#Absenteeism)
 
 SQL
 * [The organisation seeks to ensure data accuracy and alignment with business policies regarding employees records and salary structures](#Business-case)
@@ -79,9 +80,23 @@ Skills: Joins, Triggers, Procedures, Functions.\
 Technology: SQL
 
 Results:
-* 	Visualization salary trends over time
+* Visualization salary trends over time
 * Tracking employee departments
-* 	Ensuring data integrity 
+* Ensuring data integrity 
+
+
+## Absenteeism
+code: [Based on what information should we predict whether an employee is expected to be absent or present?]()
+
+Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.\
+Splitting the reasons for absence into multiple dummy variables, and then group them in the following way with no reason as the baseline:  
+* Reason 1: Columns 1 to 14
+* Reason 2: Columns 15, 16, and 17
+* Reason 3: Columns 18, 19, 20, and 21
+* Reason 4: Columns 22 to 28
+
+Skills: 
+Results:
 
 # Certificates
 Here is a list of the ones i have.
