@@ -86,7 +86,7 @@ Results:
 
 
 ## Absenteeism
-code: [Based on what information should we predict whether an employee is expected to be absent or present?](Machine Learning (all inputs standardized).ipynb)
+code: [Based on what information should we predict whether an employee is expected to be absent or present?](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Machine%20Learning%20(all%20inputs%20standardized).ipynb)
 
 Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.
 
