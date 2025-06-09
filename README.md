@@ -103,10 +103,11 @@ Skills: Data Preprocessing, Exploratory data analysis, Model selection and evalu
 Technonolgy: python libraries (pandas, numpy, Matplotlib, sklearn)
 
 Top Predictors:
-* Various diseases 
-* Poisoning 
-* Light diseases 
-* Transport expenses 
+* Various diseases 19%
+* Poisoning 15%
+* Light diseases 26%
+* Transport expenses 17%
+* Children 11%
 
 Results:
 
