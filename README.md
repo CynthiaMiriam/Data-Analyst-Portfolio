@@ -9,7 +9,7 @@ This is a repository to showcase my capabilities, share projects and track my pr
 [Portfolio projects](#Portfolio-projects)\
 python
 * [What factors can be analysed to determine the success of the banks marketing strategy](#Bank-Marketing-Strategy)
-* [Predicting the price of used cars depending on its specifications](#Used-cars)
+* [Predicting the price of used cars depending on its specifications](# Cars)
 * [Based on what information should we predict whether an employee is expected to be absent or present?](#Absenteeism)
 
 SQL
