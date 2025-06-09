@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 # About
-I am Cynthia Nakachwa and I have a strong foundation in mathematics and statistics. I am excited to bring my technical and analytical skills to the field of data. I have enjoyed exploring new data analysis tools and techniques, and I am always looking for new opportunities to expand my knowledge and skills, whether individually or through team work. I am driven by the ability to use statistical analysis to solve complex problems.
+I am Cynthia Nakachwa and I have a strong foundation in mathematics and statistics. This is a display of my technical and analytical skills to the field of data. I have enjoyed exploring new data analysis tools and techniques, and I am always looking for new opportunities to expand my knowledge and skills, whether individually or through team work. I am driven by the ability to use statistical analysis to solve complex problems.
 
 This is a repository to showcase my capabilities, share projects and track my progress in Data Analytics
 # Table of content
@@ -52,6 +52,12 @@ Preprocessing
 
 Skills: data cleaning, linear regression, data visualisation\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)
+
+Top Predictors
+*  Registration (yes) 45%
+*  Mileage 7%
+*  EngineV 8%
+*  Brand (Mitsubishi) 7%
 
 Results:
 * 	A positive weight on EngineV shows that as it increases so does the price respectively.
