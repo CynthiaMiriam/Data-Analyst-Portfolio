@@ -37,18 +37,18 @@ Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn)
 
 Results: The model to determing the success of a bank marketing strategy using the above factors was 86.04%
 
-## Used cars
+## Cars
 code: [Predicting the price of used cars depending on its specifications. ](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/used%20cars.ipynb)
 
-Overview:
-Predicting the price of used cars depending on its specifications. \
 Problem statement\
-Predict the price of a used car depending on its specifications using statistical and machine learning techniques. This involves analyzing key features that influence the price and building a model.
+Predict the price of a used car depending on its specifications.
 
 Preprocessing
-* Data cleaning such as handling missing variables, outliers. Exploratory data analysis to identify the existing trends and patterns of the dataset using scatterplot. Checking and relaxing the ordinary least square assumptions. 
+* Handling missing variables, the missing values where drop since they represented less than 5% of the data
+* Outliers, removing the 99th percentile of the outliers on some and impossible values for others
+* Checking and relaxing the ordinary least square assumptions.
+* Ensuring consistency in the data types 
 * Declare the inputs (Mileage, EngineV, (Body, Brand, Engine Type and Registration categories)) and targets (price).  Then scale your data to fix the difference in magnitude of the variables.
-* Create a regression algorithm and find the weights and biases. Then test the model.
 
 Skills: data cleaning, linear regression, data visualisation\
 Technology: python libraries(pandas, numpy, Matplotlib, sklearn, seaborn, statsmodels)
@@ -93,7 +93,7 @@ Target: Divided the absenteeism in hours into two classes that is moderately abs
 Overview: Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activities.
 
 Data Preprocessing: [Preprocessed data](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Absenteeism.ipynb)\
-Splitting the reasons for absence into multiple dummy variables, and then group them in the following way with no reason as the baseline:  
+Splitting the reasons for absence into multiple dummy variables, and then group them in the following ways with no reason as the baseline:  
 * Reason type 1: Various diseases
 * Reason type 2: Pregnacy and giving birth
 * Reason type 3: Poisoning
