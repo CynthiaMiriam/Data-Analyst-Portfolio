@@ -92,7 +92,7 @@ Results:
 
 
 ## Absenteeism
-code: [Based on what information should we predict whether an employee is expected to be absent or present?](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/a9bf4e9095086dd1c1ff87d6a003a59e899f4f44/Absenteeism%20Machine%20Learning%20(all%20inputs%20standardized).ipynb)
+code: [Based on what information should we predict whether an employee is expected to be absent or present?](https://github.com/CynthiaMiriam/Data-Analyst-Portfolio/blob/main/Absenteeism%20Machine%20Learning%20(all%20inputs%20standardized).ipynb)
 
 Target: Divided the absenteeism in hours into two classes that is moderately absent and excessively absent. 
 
